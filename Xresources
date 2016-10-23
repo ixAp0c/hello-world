@@ -1,0 +1,25 @@
+!BLK
+XTerm*color0:             #666666
+XTerm*color8:             #999999
+!RED
+XTerm*color1:             #CC6666
+XTerm*color9:           #FF9999
+!GRN
+XTerm*color2:             #66CC99
+XTerm*color10:            #99FFCC
+!YEL
+XTerm*color3:             #CC9966
+XTerm*color11:            #FFCC99
+!BLE
+XTerm*color4:             #6699CC
+XTerm*color12:            #99CCFF
+!MAG
+XTerm*color5:             #CC6699
+XTerm*color13:            #FF99CC
+!CYN
+XTerm*color6:             #66CCCC
+XTerm*color14:            #99FFFF
+!WHT
+XTerm*color7:             #CCCCCC
+XTerm*color15:            #FFFFFF
+XTerm*reverseVideo: on
