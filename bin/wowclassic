@@ -1,0 +1,4 @@
+#!/bin/bash
+killall compton
+wine "/home/ap0c/.wine/drive_c/World of Warcraft/WoW.exe"
+comptonstart
