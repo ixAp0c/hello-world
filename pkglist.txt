@@ -117,6 +117,11 @@ procps-ng
 psmisc
 pulseaudio
 pulseaudio-alsa
+python-pip
+python-pyqt4
+python-pyqt5
+python2-pyqt4
+python2-pyqt5
 qt5-tools
 ranger
 reiserfsprogs
@@ -133,6 +138,7 @@ sysfsutils
 systemd-sysvcompat
 tar
 texinfo
+tk
 ttf-dejavu
 ttf-liberation
 ufw
