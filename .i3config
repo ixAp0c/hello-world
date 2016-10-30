@@ -13,7 +13,7 @@
 exec --no-startup-id compton --opacity-rule "99:class_g = 'Firefox'" --config ~/.compton.conf
 
 # Set background whenever i3 starts/restarts
-exec_always --no-startup-id feh --bg-scale ~/Pictures/Backgrounds/archlogopacman.png
+exec_always --no-startup-id feh --bg-scale ~/pictures/Backgrounds/archlogopacman.png
 
 # Start volume icon in system tray
 exec --no-startup-id volumeicon
