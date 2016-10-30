@@ -76,6 +76,7 @@ set hlsearch
 
 " Set color scheming and background
 :color slate
+:highlight LineNr ctermfg=darkgrey
 set background=dark
 " Use case insensitive search, except when using capital letters
 set ignorecase
