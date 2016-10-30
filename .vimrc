@@ -73,7 +73,10 @@ set hlsearch
 " change Vim's behaviour in ways which deviate from the true Vi way, but
 " which are considered to add usability. Which, if any, of these options to
 " use is very much a personal preference, but they are harmless.
- 
+
+" Set color scheming and background
+:color slate
+set background=dark
 " Use case insensitive search, except when using capital letters
 set ignorecase
 set smartcase
