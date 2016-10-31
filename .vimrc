@@ -27,6 +27,16 @@ syntax on
 " Set color scheming and background
 colorscheme delek 
 set background=dark
+"-----------------------------------------------------------
+" Python options
+au BufNewFile, BufRead *.py
+    \ set tabstop=4
+    \ set softtabstop=4
+    \ set shiftwidth=4
+    \ set textwidth=79
+    \ set expandtab
+    \ set autoindent
+    \ set fileformat=unix
 "------------------------------------------------------------
 " Must have options {{{1
 "
