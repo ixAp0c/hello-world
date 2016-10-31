@@ -21,9 +21,12 @@ set nocompatible
 filetype indent plugin on
  
 " Enable syntax highlighting
+let python_highlight_all=1
 syntax on
  
- 
+" Set color scheming and background
+colorscheme delek 
+set background=dark
 "------------------------------------------------------------
 " Must have options {{{1
 "
@@ -74,10 +77,6 @@ set hlsearch
 " which are considered to add usability. Which, if any, of these options to
 " use is very much a personal preference, but they are harmless.
 
-" Set color scheming and background
-:color slate
-set background=dark
-hi LineNr ctermfg=DarkGrey
 " Use case insensitive search, except when using capital letters
 set ignorecase
 set smartcase
