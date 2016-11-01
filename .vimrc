@@ -25,7 +25,7 @@ let python_highlight_all=1
 syntax on
  
 " Set color scheming and background
-colorscheme delek 
+colorscheme anotherdark
 set background=dark
 "-----------------------------------------------------------
 " Python options
