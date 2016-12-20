@@ -1,0 +1,4 @@
+#!/bin/bash
+killall compton
+java -jar /home/ap0c/.minecraft/Minecraft.jar
+comptonstart
