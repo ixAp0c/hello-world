@@ -1,4 +1,6 @@
+0ad
 a52dec
+aic94xx-firmware
 alsa-firmware
 alsa-utils
 archey3
@@ -22,6 +24,7 @@ device-mapper
 dhcpcd
 dialog
 diffutils
+discord-canary
 dmenu
 dnsmasq
 dnssec-anchors
@@ -47,6 +50,7 @@ gimp
 git
 glew
 glibc
+glxinfo
 gpicview
 grep
 grub
@@ -120,12 +124,15 @@ psmisc
 pulseaudio
 pulseaudio-alsa
 python-pip
+python-pygame
 python-pyqt4
 python-pyqt5
 python2-pygame
 python2-pyqt4
 python2-pyqt5
 qt5-tools
+radeon-profile-daemon-git
+radeon-profile-git
 ranger
 reiserfsprogs
 rsync
@@ -141,7 +148,9 @@ supertux
 sysfsutils
 systemd-sysvcompat
 tar
+teamspeak3
 texinfo
+timidity++
 tk
 ttf-dejavu
 ttf-liberation
@@ -154,6 +163,7 @@ vi
 vim
 volumeicon
 wavpack
+wd719x-firmware
 wget
 which
 wine
