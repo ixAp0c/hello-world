@@ -1,2 +1,2 @@
 #!/bin/bash
-wine '/home/ap0c/.wine/drive_c/World of Warcraft/WoW.exe'
+wine '/home/ap0c/.wine/drive_c/World of Warcraft 1.12/WoW.exe'
